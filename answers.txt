@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is a git running on a remote server, such as GitHub, GitLab, or self-hosted service.
