@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 What is the difference between a merge and a rebase?
 
 Merge on two branches will create a new commit on one branch, and the merge history will be stored.
 Rebase on two branches will rewrite the base branch directly and apply changes onto this commit.
 
+=======
+What is a remote repository?
+
+A remote repository is a git running on a remote server, such as GitHub, GitLab, or self-hosted service.
+>>>>>>> progress
